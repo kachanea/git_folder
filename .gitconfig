@@ -1,0 +1,13 @@
+[core]
+	editor = \"C:\\Users\\Олег\\AppData\\Local\\atom\\app-1.58.0\\atom.exe\" --wait
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+[user]
+	name = Katja K
+	email = kachanea@gmail.com
+[gui]
+	recentrepo = D:/learn_it/learn_git
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	co = checkout
